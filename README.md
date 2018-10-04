@@ -1,0 +1,1 @@
+Mockup of the Google.com home page. All links open with target="_blank" on purpose.
